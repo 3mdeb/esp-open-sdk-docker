@@ -47,5 +47,3 @@ Provide `udev` rules for your `tty` device, such as:
 ## TODO
 
 * push to dockerhub
-
-* strip source to reduce image size (leave only necessary toolchain binaries)
